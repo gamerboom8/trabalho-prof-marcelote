@@ -1,0 +1,28 @@
+body{
+    background-color: #0f0f0f;}
+    
+p{color: white;}
+h1{color: white;}
+
+.Vitor img{
+    height: 1000px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Vitor  {
+    position: relative;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.vitorCarudo {
+    position: absolute;
+  top: 0;
+  }
+
+  p {
+    margin-top: 40px; /* Adjust as needed */
+  }
