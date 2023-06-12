@@ -58,3 +58,14 @@ body {
   a {
     color: white;
     text-decoration: none;}
+
+  .vitor img {
+      max-width: 50%;
+      height: auto;
+    }
+    
+    @media (max-width: 768px) {
+      .vitor {
+        max-width: 50%; /* Adjust the value as per your preference */
+      }
+    }
